@@ -55,5 +55,4 @@ public class ParkingSystem {
             this.getUsers().add(newUser);
         }
     }
-
 }
