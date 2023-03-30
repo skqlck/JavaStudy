@@ -15,11 +15,13 @@ public class Member {
     public String getName(){
         return this.name;
     }
-    public Grade getGrade(){
-        return this.grade;
-    }
+    public void setName(String name) { this.name = name; }
     public Long getId(){
         return this.id;
+    }
+    public void setId(Long id) { this.id = id; }
+    public Grade getGrade(){
+        return this.grade;
     }
     public void setGrade(Grade grade) {
         this.grade = grade;
