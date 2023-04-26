@@ -1,0 +1,12 @@
+POST http://localhost:8080/joinMember
+Content-Type: application/json
+
+{
+
+  "name":"하이"
+
+}
+###
+
+GET http://localhost:8080/showMembers
+Content-Type: application/json
