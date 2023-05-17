@@ -46,9 +46,14 @@ public class OrderService {
     public void cancelOrder(Long orderId){
 
         // 주문 엔티티 조회
-        Order order = orderRepository.findById(orderId).get();
+        Order order = orderRepository.findById(orderId);
 
         // 주문 취소
         order.cancel();
     }
+
+//    public void findOrders(OrderSearch orderSearch){
+//        Member member = memberRepository.findByName(orderSearch.getMemberName());
+//
+//    }
 }

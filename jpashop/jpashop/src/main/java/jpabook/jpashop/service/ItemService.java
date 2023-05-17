@@ -35,4 +35,12 @@ public class ItemService {
        else { do something; }
 
      */
+
+    public void updateItem(Long id, String name, int price, int stockQuantity){
+
+        Item item = itemRepository.findById(id).get();
+        item.setName(name);
+        item.setPrice(price);
+        item.setStockQuantity(stockQuantity);
+    }
 }

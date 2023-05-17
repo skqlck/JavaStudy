@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a96be50-175c-47f8-ad97-0d9bbb8643ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/메모장프로그램/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/메모장프로그램/UserSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/메모장프로그램/sample_input.txt" afterDir="false" />
-    </list>
+    <list default="true" id="1a96be50-175c-47f8-ad97-0d9bbb8643ca" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,6 +38,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -81,6 +72,8 @@
       <updated>1682507868166</updated>
       <workItem from="1682507869263" duration="1454000" />
       <workItem from="1682517641515" duration="4744000" />
+      <workItem from="1682687500920" duration="2339000" />
+      <workItem from="1682785463234" duration="2000" />
     </task>
     <servers />
   </component>
